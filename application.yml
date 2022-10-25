@@ -1,3 +1,6 @@
+spring:
+  zipkin:
+    base-url: http://3.108.236.27:9411/
 eureka:
   client:
     register-with-eureka: true
